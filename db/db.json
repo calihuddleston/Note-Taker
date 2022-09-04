@@ -4,8 +4,23 @@
         "text": "Test text"
     },
     {
-        "title": "Hello",
-        "text": "How are you?",
-        "note_id": "56e1"
+        "title": "Hello!",
+        "text": "I finally got it figured out and working :D",
+        "note_id": "9351"
+    },
+    {
+        "title": "Hi there!",
+        "text": "I finally got it :D",
+        "note_id": "1a23"
+    },
+    {
+        "title": "Hello world!",
+        "text": "I finally got it to work :D",
+        "note_id": "54aa"
+    },
+    {
+        "title": "This is my note",
+        "text": "Hello!",
+        "note_id": "4207"
     }
 ]
