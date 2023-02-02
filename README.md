@@ -30,7 +30,6 @@ https://drive.google.com/file/d/1HW7sOQhsyowGro5UexDk5OEU8vtTTA5W/view
 ![Screen Shot 2022-09-04 at 12 06 52 AM](https://user-images.githubusercontent.com/102004484/188297001-3e60c333-20ba-4eb4-b38d-cbd448ed.png)
 
 ![Screen Shot 2022-09-04 at 12 07 14 AM](https://user-images.githubusercontent.com/102004484/188297002-f0d73dfb-be9b-4b1c-bfb9-c4e5a2175917.png)
-801b.png)
 
 ![Screen Shot 2022-09-04 at 12 07 25 AM](https://user-images.githubusercontent.com/102004484/188297006-fa717d74-4e00-4a08-9530-4692cbca1227.png)
 
