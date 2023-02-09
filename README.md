@@ -1,7 +1,5 @@
 # Note Taker
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-
 ## Table of Contents
 
 - [Description](#description)
@@ -9,29 +7,28 @@
 - [Usage](#usage)
 - [Guidelines](#guidelines)
 - [Test-Instructions](#test)
-- [Licenses](#license)
+- [Technology Used](#techused)
 - [Contact-Information](#email)
 
 ## Description:
 
-Get started with taking notes! Note Taker allows you to enter a title and the note/reminder you'd like to save.
+A standard note taking application. Users are able to write notes with a title and description of the note. Notes can be saved, updated, and deleted. 
+Successful use of front and back-end technologies to provide an application that is able to save data, retrieve that data, and update/delete. 
 
 ## Installation:
 
-NA
+1. Open terminal.
+2. In upper corner of GitHub repo, click < Code > dropdown menu.
+3. Copy the SSH link.
+4. In terminal, type `git clone` and paste the SSH link afterwards.
+5. Hit enter.
+
+** Repo should successfully be on your desktop or downloads as a directory folder.
 
 ## Usage:
+![NoteTaker](https://user-images.githubusercontent.com/102004484/217710424-3dc01a8c-7eed-4be6-a9e4-7af6fff46828.png)
 
 https://drive.google.com/file/d/1HW7sOQhsyowGro5UexDk5OEU8vtTTA5W/view
-
-
-![Screen Shot 2022-09-04 at 12 06 37 AM](https://user-images.githubusercontent.com/102004484/188296998-e7838c84-1cf6-4cb0-aa27-83bbe4baaaac.png)
-
-![Screen Shot 2022-09-04 at 12 06 52 AM](https://user-images.githubusercontent.com/102004484/188297001-3e60c333-20ba-4eb4-b38d-cbd448ed.png)
-
-![Screen Shot 2022-09-04 at 12 07 14 AM](https://user-images.githubusercontent.com/102004484/188297002-f0d73dfb-be9b-4b1c-bfb9-c4e5a2175917.png)
-
-![Screen Shot 2022-09-04 at 12 07 25 AM](https://user-images.githubusercontent.com/102004484/188297006-fa717d74-4e00-4a08-9530-4692cbca1227.png)
 
 ## Guidelines:
 
@@ -39,12 +36,22 @@ NA
 
 ## Test Instructions:
 
-https://drive.google.com/file/d/1HW7sOQhsyowGro5UexDk5OEU8vtTTA5W/view
+1. Open terminal.
+2. `cd` into `Note-Taker` directory.
+3. In the terminal, type `npm install` or `npm i` to install node-modules.
+4. Ensure node-modules are installed by checking the file directory in your code editor. 
+5. If node-modules are installed, in the terminal, type `npm start` to begin local host server.
+6. Once server is connected - open a browser tab. 
+7. In the browser tab type `localhost:3001`
+8. The page will load in the browser. 
+9. To add a new note, 
 
-## License:
+## Technology Used:
 
-Read more about The Unlicense here:
-[The Unlicense](http://unlicense.org/)
+      - Bootstrap 
+      - JSON 
+      - Node.js 
+      - Express.js
 
 ## Contact Information:
 
