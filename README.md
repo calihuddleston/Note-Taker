@@ -33,8 +33,6 @@ NPM Packages:
 Start Application: 
 1. You'll see the `App listening at http://localhost:3001` in the terminal console. You can view the app on http://localhost:3001/
 
-** Repo should successfully be on your desktop or downloads as a directory folder.
-
 ## Usage:
 ![NoteTaker](https://user-images.githubusercontent.com/102004484/217710424-3dc01a8c-7eed-4be6-a9e4-7af6fff46828.png)
 
