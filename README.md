@@ -20,7 +20,7 @@ Successful use of front and back-end technologies to provide an application that
 1. Open terminal.
 2. In upper corner of GitHub repo, click < Code > dropdown menu.
 3. Copy the SSH link.
-4. In terminal, type `git clone` and paste the SSH link afterwards.
+4. In terminal, type `git clone git@github.com:calihuddleston/Note-Taker.git`
 5. Hit enter.
 
 ** Repo should successfully be on your desktop or downloads as a directory folder.
