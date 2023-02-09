@@ -17,20 +17,20 @@ Successful use of front and back-end technologies to provide an application that
 
 ## Installation:
 
-- Clone Repository:
+Clone Repository:
 1. Open terminal.
 2. In terminal, type or copy and paste: `git clone git@github.com:calihuddleston/Note-Taker.git`
 3. Hit enter.
 
--NPM Packages:
-      - All NPM packages required for this application (Express) are already listed as dependencies in the `package.json` file.
-      - Ensure that Node.js is installed on your machine (you can check this by running `node -v` in the terminal). The `Note-Taker` application will be invoked by entering `npm start` in the command line.
+NPM Packages:
+ - All NPM packages required for this application (Express) are already listed as dependencies in the `package.json` file.
+ - Ensure that Node.js is installed on your machine (you can check this by running `node -v` in the terminal). The `Note-Taker` application will be invoked by entering `npm start` in the command line.
             Node.js Download: https://nodejs.org/en/download/
       - (Also shown in ## Test Instructions)
 1. In the terminal, `cd` into the `Note-Taker` directory.
 2. Run `npm i` or `npm install` to install dependency node-modules.
 
-- Start Application: 
+Start Application: 
 1. You'll see the `App listening at http://localhost:3001` in the terminal console. You can view the app on http://localhost:3001/
 
 ** Repo should successfully be on your desktop or downloads as a directory folder.
