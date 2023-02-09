@@ -44,7 +44,9 @@ NA
 6. Once server is connected - open a browser tab. 
 7. In the browser tab type `localhost:3001`
 8. The page will load in the browser. 
-9. To add a new note, 
+9. To add a new note, type a title in the title box and a note description in the text box below. 
+10. Click the save/add icon.
+11. Note will appear to the side.
 
 ## Technology Used:
 
