@@ -17,11 +17,21 @@ Successful use of front and back-end technologies to provide an application that
 
 ## Installation:
 
+- Clone Repository:
 1. Open terminal.
-2. In upper corner of GitHub repo, click < Code > dropdown menu.
-3. Copy the SSH link.
-4. In terminal, type or copy and paste: `git clone git@github.com:calihuddleston/Note-Taker.git`
-5. Hit enter.
+2. In terminal, type or copy and paste: `git clone git@github.com:calihuddleston/Note-Taker.git`
+3. Hit enter.
+
+-NPM Packages:
+      - All NPM packages required for this application (Express) are already listed as dependencies in the `package.json` file.
+      - Ensure that Node.js is installed on your machine (you can check this by running `node -v` in the terminal). The `Note-Taker` application will be invoked by entering `npm start` in the command line.
+            Node.js Download: https://nodejs.org/en/download/
+      - (Also shown in ## Test Instructions)
+1. In the terminal, `cd` into the `Note-Taker` directory.
+2. Run `npm i` or `npm install` to install dependency node-modules.
+
+- Start Application: 
+1. You'll see the `App listening at http://localhost:3001` in the terminal console. You can view the app on http://localhost:3001/
 
 ** Repo should successfully be on your desktop or downloads as a directory folder.
 
@@ -38,15 +48,14 @@ NA
 
 1. Open terminal.
 2. `cd` into `Note-Taker` directory.
-3. In the terminal, type `npm install` or `npm i` to install node-modules.
+3. In the terminal, type `npm install` or `npm i` to install dependency node-modules.
 4. Ensure node-modules are installed by checking the file directory in your code editor. 
 5. If node-modules are installed, in the terminal, type `npm start` to begin local host server.
 6. Once server is connected - open a browser tab. 
-7. In the browser tab type `localhost:3001`
-8. The page will load in the browser. 
-9. To add a new note, type a title in the title box and a note description in the text box below. 
-10. Click the save/add icon.
-11. Note will appear to the side.
+7. You'll see the application live at : http://localhost:3001/
+8. To add a new note, type a title in the title box and a note description in the text box below. 
+9. Click the save/add icon.
+10. Note will appear to the side.
 
 ## Technology Used:
 
