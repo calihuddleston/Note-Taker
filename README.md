@@ -3,10 +3,9 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Features](#features)
 - [Installation](#install)
 - [Screenshots](#screenshots)
-- [Guidelines](#guidelines)
-- [Test-Instructions](#test)
 - [Technology Used](#techused)
 - [Contact-Information](#email)
 
@@ -14,6 +13,15 @@
 
 A standard note taking application. Users are able to write notes with a title and description of the note. Notes can be saved, updated, and deleted. 
 Successful use of front and back-end technologies to provide an application that is able to save data, retrieve that data, and update/delete. 
+
+## Features:
+
+This application has the following features: 
+- User can write a note by editing the Note Title and Note Text. 
+- The application provides the feature of saving the note by clicking the save icon in the upper right corner. 
+- Once the note is saved - the user has the ability to see it on the left side. 
+- If the user no longer wants/needs the note - the user has the ability to delete the note by clicking the trash icon.
+
 
 ## Installation:
 
@@ -37,23 +45,6 @@ Start Application:
 ![NoteTaker](https://user-images.githubusercontent.com/102004484/217710424-3dc01a8c-7eed-4be6-a9e4-7af6fff46828.png)
 
 https://drive.google.com/file/d/1HW7sOQhsyowGro5UexDk5OEU8vtTTA5W/view
-
-## Guidelines:
-
-NA
-
-## Test Instructions:
-
-1. Open terminal.
-2. `cd` into `Note-Taker` directory.
-3. In the terminal, type `npm install` or `npm i` to install dependency node-modules.
-4. Ensure node-modules are installed by checking the file directory in your code editor. 
-5. If node-modules are installed, in the terminal, type `npm start` to begin local host server.
-6. Once server is connected - open a browser tab. 
-7. You'll see the application live at : http://localhost:3001/
-8. To add a new note, type a title in the title box and a note description in the text box below. 
-9. Click the save/add icon.
-10. Note will appear to the side.
 
 ## Technology Used:
 
